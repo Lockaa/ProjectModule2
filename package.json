@@ -1,0 +1,15 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Set up a basic Node.js server using Express and create a simple RESTful API endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

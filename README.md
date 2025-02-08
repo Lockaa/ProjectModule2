@@ -14,5 +14,7 @@
 
 # Record Log:
     2/8/2025:
-    made repo and filled out requirements into README file  1:30
-    
+    made repo and filled out requirements into README file  13:30
+    worked on basic file structure                          13:30 - 14:15
+    working on making the API endpoint                      14:15 - 
+
