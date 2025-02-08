@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 
 //API Route for the JSON print
-app.get('/api', (req, res) => {
+app.get('/', (req, res) => {
     res.json({ message: 'Hello World' });
   });
 
